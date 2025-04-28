@@ -1,4 +1,4 @@
-package carreiras.com.github.cryptomonitor.model
+package bruncg.com.github.cryptomonitor.model
 
 class TickerResponse(
     val ticker: Ticker

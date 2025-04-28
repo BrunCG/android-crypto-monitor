@@ -1,6 +1,6 @@
-package carreiras.com.github.cryptomonitor.service
+package bruncg.com.github.cryptomonitor.service
 
-import carreiras.com.github.cryptomonitor.model.TickerResponse
+import bruncg.com.github.cryptomonitor.model.TickerResponse
 import retrofit2.Response
 import retrofit2.http.GET
 

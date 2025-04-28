@@ -1,4 +1,4 @@
-package carreiras.com.github.cryptomonitor.service
+package bruncg.com.github.cryptomonitor.service
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory

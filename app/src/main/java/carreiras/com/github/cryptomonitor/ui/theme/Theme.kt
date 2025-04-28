@@ -1,4 +1,4 @@
-package carreiras.com.github.cryptomonitor.ui.theme
+package bruncg.com.github.cryptomonitor.ui.theme
 
 import android.app.Activity
 import android.os.Build

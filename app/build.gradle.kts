@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "carreiras.com.github.cryptomonitor"
+    namespace = "bruncg.com.github.cryptomonitor"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "carreiras.com.github.cryptomonitor"
+        applicationId = "bruncg.com.github.cryptomonitor"
         minSdk = 27
         targetSdk = 34
         versionCode = 1
